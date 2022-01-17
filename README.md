@@ -1,2 +1,2 @@
-myNew-repo
-# myNew-repo
+# merge-conflict-example
+Example repo for learning how to resolve merge conflicts
